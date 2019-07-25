@@ -1,0 +1,10 @@
+## Interface: 80150
+## Version: 0.1
+## Title: tuutti
+## RequiredDeps: ElvUI
+
+CustomElvuiDataTexts.lua
+mvCT.lua
+ElvuiCastbar.lua
+ElvuiPetBar.lua
+RemoveBossButton.lua
